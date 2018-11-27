@@ -32,6 +32,7 @@
 
     <ToggleButton
         android:id="@+id/toggleButton"
+        android:onClick="toogleButton"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
